@@ -1,0 +1,9 @@
+# Core dependencies
+streamlit
+python-dotenv
+phi-client
+groq
+# Search tools dependencies
+duckduckgo-search
+google-search-results
+googlesearch-python
