@@ -1,8 +1,13 @@
 # Core dependencies
 streamlit
 python-dotenv
-phi-client
+phidata
 groq
+requests
+langchain
+langchain-core
+langchain-groq
+
 # Search tools dependencies
 duckduckgo-search
 google-search-results
